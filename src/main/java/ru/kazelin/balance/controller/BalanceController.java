@@ -10,7 +10,7 @@ import ru.kazelin.balance.model.EnrollmentDTO;
 public class BalanceController {
 
     @PostMapping("/enroll")
-    public void enrollment(@RequestBody EnrollmentDTO enrollmentDTO)
+    public void enroll(@RequestBody EnrollmentDTO enrollmentDTO)
     {
 
     }
