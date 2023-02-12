@@ -1,5 +1,7 @@
 package ru.kazelin.balance.model;
 
+import org.springframework.stereotype.Component;
+
 public class UserDTO {
 
     private final String userId;
